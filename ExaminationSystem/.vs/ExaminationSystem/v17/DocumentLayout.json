@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|c:\\users\\mordhau\\source\\repos\\examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|c:\\users\\mordhau\\source\\repos\\examinationsystem\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|solutionrelative:question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|c:\\users\\mordhau\\source\\repos\\examinationsystem\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|c:\\users\\mordhau\\source\\repos\\examinationsystem\\inputsandoutputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|solutionrelative:inputsandoutputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|c:\\users\\mordhau\\source\\repos\\examinationsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|c:\\users\\mordhau\\source\\repos\\examinationsystem\\tworightchoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|solutionrelative:tworightchoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|c:\\users\\mordhau\\source\\repos\\examinationsystem\\trueorfalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|solutionrelative:trueorfalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|c:\\users\\mordhau\\source\\repos\\examinationsystem\\multichoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81707405-11BF-4823-820A-F1C45B971D0B}|ExaminationSystem.csproj|solutionrelative:multichoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwCwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:43:55.787Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputsAndOutputs.cs",
+              "DocumentMoniker": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\InputsAndOutputs.cs",
+              "RelativeDocumentMoniker": "InputsAndOutputs.cs",
+              "ToolTip": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\InputsAndOutputs.cs",
+              "RelativeToolTip": "InputsAndOutputs.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwFgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:50:02.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\Teacher.cs",
+              "RelativeToolTip": "Teacher.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:58:55.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:36:06.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\Question.cs",
+              "RelativeDocumentMoniker": "Question.cs",
+              "ToolTip": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\Question.cs",
+              "RelativeToolTip": "Question.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAmwDwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:00:04.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrueOrfalse.cs",
+              "DocumentMoniker": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\TrueOrfalse.cs",
+              "RelativeDocumentMoniker": "TrueOrfalse.cs",
+              "ToolTip": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\TrueOrfalse.cs",
+              "RelativeToolTip": "TrueOrfalse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:35:03.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MultiChoice.cs",
+              "DocumentMoniker": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\MultiChoice.cs",
+              "RelativeDocumentMoniker": "MultiChoice.cs",
+              "ToolTip": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\MultiChoice.cs",
+              "RelativeToolTip": "MultiChoice.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:22:44.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TwoRightChoices.cs",
+              "DocumentMoniker": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\TwoRightChoices.cs",
+              "RelativeDocumentMoniker": "TwoRightChoices.cs",
+              "ToolTip": "C:\\Users\\mordhau\\source\\repos\\ExaminationSystem\\TwoRightChoices.cs",
+              "RelativeToolTip": "TwoRightChoices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:38:14.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
